@@ -1,5 +1,4 @@
 # Student-achievement-management-system
-#该代码还可以继续优化，但由于作者太懒了，没有进行优化。
 
 现有学生成绩信息文件1（1.txt），内容如下
 
